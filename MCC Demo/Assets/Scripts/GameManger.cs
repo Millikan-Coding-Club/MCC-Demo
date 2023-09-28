@@ -8,6 +8,7 @@ public class GameManger : MonoBehaviour
     void Start()
     {
         int count = 0;
+        int speed = 1;
     }
 
     // Update is called once per frame
