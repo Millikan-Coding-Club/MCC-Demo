@@ -8,7 +8,11 @@ public class GameManger : MonoBehaviour
     void Start()
     {
         int count = 0;
+<<<<<<< Updated upstream
         int speed = 1;
+=======
+        bool run = true;
+>>>>>>> Stashed changes
     }
 
     // Update is called once per frame
