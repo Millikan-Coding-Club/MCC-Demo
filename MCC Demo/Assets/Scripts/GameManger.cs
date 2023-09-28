@@ -13,6 +13,7 @@ public class GameManger : MonoBehaviour
 =======
         bool run = true;
 >>>>>>> Stashed changes
+        int money = 0;
     }
 
     // Update is called once per frame
